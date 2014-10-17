@@ -2,11 +2,9 @@ Cichlid
 ===============
 
 ##Distributed RDFS & OWL Reasoning System with Spark
-
-Cichlid is a parallel RDFS & OWL reasoning engine based on [Spark](http://spark.apache.org/). Now, the master branch is in version 0.1. 
+Cichlid is a distributed RDFS & OWL reasoning engine based on [Spark](http://spark.apache.org/). Now, the master branch is in version 0.1. 
 
 ##Prerequisites
-
 As Cichlid is based on Spark, you need to get Spark installed first. If you are not clear how to setup Spark, please refer to the guidelines [here](http://spark.apache.org/docs/latest/). Currently, Startfish runs on Spark 1.0.x or newer version.
 
 ##Compile Cichlid
