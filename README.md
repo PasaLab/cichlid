@@ -1,7 +1,7 @@
 Cichlid
 ===============
 
-##Parallel RDFS & OWL Reasoning System with Spark
+##Distributed RDFS & OWL Reasoning System with Spark
 
 Cichlid is a parallel RDFS & OWL reasoning engine based on [Spark](http://spark.apache.org/). Now, the master branch is in version 0.1. 
 
